@@ -13,3 +13,5 @@ At the end of the run an output folder with histogram will be generated.
 This implementation of k-means algorithm is intended for execution time comparison wrt 
 [squential C++ version](https://github.com/MarcoSolarino/LBPSequential/tree/master) and 
 [CUDA version](https://github.com/daikon899/LBP_CUDA)
+
+.
